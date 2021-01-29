@@ -1,1 +1,2 @@
-print("Все слишком легко!!!")
+def fib(n):
+    return fib(n - 1) + fib(n - 2)
